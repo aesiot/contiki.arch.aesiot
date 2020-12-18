@@ -8,7 +8,7 @@ ifndef CONTIKI
  $(error 'CONTIKI' not defined! You must specify where CONTIKI resides!)
 endif
 
-BOARD ?= launchpad/awn6_cc1310_77
+BOARD ?= launchpad/sa02d
 
 ################################################################################
 ### Resolve the Aesiot Family
